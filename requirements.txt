@@ -1,4 +1,6 @@
-flask
+Flask
 flask-cors
 PyPDF2
-google-generativeai
+python-dotenv
+google-genai
+gunicorn
